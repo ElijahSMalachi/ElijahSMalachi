@@ -37,9 +37,8 @@ I’m currently working on exciting ideas, and I’ll be sharing my projects her
 ### 🔗 Let's Connect!
 I'm always open to discussions on **collaborations, open-source projects, and software development trends**. Feel free to reach out!  
 
-🌐 [Portfolio Website](elijahsoko.vercel.app)  
-🔗 [LinkedIn](#)  
-🐦 [Twitter](#)
+🌐 [Portfolio Website](https://elijahsoko.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/elijah-soko-493a05259/)  
 
 ---
 
