@@ -1,37 +1,61 @@
-## Hi there 👋, I'm Elijah Soko Malachi
+## 👋 Hello, I'm Elijah Soko  
 
-🚀 **Software Developer | Tech Enthusiast | Problem Solver**  
+Welcome to my GitHub profile! I'm a **Software Developer** with expertise in **Laravel, React, React Native, Next.js, PHP, and Python**. I enjoy solving complex problems and building scalable, efficient applications.
 
-### 💡 About Me
-I’m a passionate software developer with experience in building web and mobile applications. I specialize in **Laravel, Next.js, React, React Native, and PHP** while also working with **Python and Node.js**. My goal is to craft seamless and scalable digital solutions that solve real-world problems.
+---
 
-### 🔭 What I’m Working On
-- **NyumbaZatu** – A house rental and sales app powered by Laravel 11.
-- **Car Ride Booking App** – A platform for long-distance ride-sharing in Zambia.
-- **Real-Time Chat App** – Implementing Laravel Echo and Reverb for instant messaging.
+### 🚀 About Me
+I'm a passionate software developer with a keen interest in **backend development, system architecture, and real-time applications**. I also love working on **mobile applications** and exploring **cloud computing** solutions.
 
-### 🌱 What I’m Learning
-- **DevOps & Infrastructure Architecture** to enhance deployment and scalability.
-- **Boolean Algebra & Digital Logic Design** as part of my university studies.
-- **Advanced React Native Features** for better mobile app performance.
+I'm currently expanding my knowledge in **AWS, DevOps, and infrastructure architecture**, aiming to bridge the gap between software development and scalable infrastructure.
 
-### 💬 Ask Me About
-- Web & mobile app development
-- Backend architecture with Laravel & PHP
-- State management with **React Query & Formik**
-- Integrating biometric authentication in mobile apps
+In addition to coding, I enjoy problem-solving, leading teams, and collaborating with other developers to build high-quality software solutions.
 
-### 🛠️ Tech Stack
-- **Frontend:** React, Next.js, React Native, TypeScript
-- **Backend:** Laravel, PHP, Node.js
-- **Database:** MySQL, PostgreSQL
-- **Other Tools:** Docker, Git, Redis
+---
 
-### 🤝 Open to Collaboration
-I’m always excited to collaborate on innovative projects, open-source contributions, and real-world tech solutions.
+### 🛠️ Tech Stack & Tools
+- **Languages:** PHP, JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, React Native
+- **Backend:** Laravel, Node.js
+- **Databases:** MySQL, PostgreSQL
+- **DevOps & Tools:** AWS, Docker, Git, Redis, WebSockets
 
-### 📫 Connect with Me
-- **GitHub:** [ElijahSMalachi](https://github.com/ElijahSMalachi)
-- **LinkedIn:** [Elijah Soko](https://www.linkedin.com/in/elijahsokommalachi) *(if available)*
+---
 
-⚡ *Creative Minds, Realist Ideas!*
+### 🌱 Currently Learning
+- **AWS & Cloud Infrastructure** (EC2, S3, Lambda, RDS)
+- **DevOps & CI/CD Pipelines** (Docker, Kubernetes, Terraform)
+- **Real-Time Applications** (WebSockets, Laravel Echo, Reverb)
+
+---
+
+### 📌 Projects & Contributions
+I’m currently working on exciting ideas, and I’ll be sharing my projects here soon! Stay tuned. 🚀
+
+---
+
+### 🔗 Let's Connect!
+I'm always open to discussions on **collaborations, open-source projects, and software development trends**. Feel free to reach out!  
+
+🌐 [Portfolio Website](elijahsoko.vercel.app)  
+🔗 [LinkedIn](#)  
+🐦 [Twitter](#)
+
+---
+
+### 🔥 Streak Stats
+🏆 Total Contributions: **Coming Soon!**  
+📅 Current Streak: **Active Developer!**  
+🚀 Longest Streak: **Stay Consistent!**  
+
+---
+
+### 🎯 Fun Fact
+I love **problem-solving**, exploring **AI**, and learning about **new software development trends**. Always seeking growth and new challenges! 💡
+
+---
+
+### 📬 Contact Me
+💌 Email: [elijahsmalachi@gmail.com](mailto:elijahsmalachi@gmail.com)  
+📩 Open to discussions on **tech, software development, and innovation!**
+
