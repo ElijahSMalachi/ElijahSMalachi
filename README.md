@@ -16,16 +16,16 @@ In addition to coding, I enjoy problem-solving, leading teams, and collaborating
 ### 🛠️ Tech Stack & Tools
 - **Languages:** PHP, JavaScript, TypeScript, Python
 - **Frontend:** React, Next.js, React Native
-- **Backend:** Laravel, Node.js
+- **Backend:** Laravel, Node.js,
 - **Databases:** MySQL, PostgreSQL
 - **DevOps & Tools:** AWS, Docker, Git, Redis, WebSockets
+- **Real-Time Applications** (WebSockets, Laravel Echo, Reverb)
 
 ---
 
 ### 🌱 Currently Learning
 - **AWS & Cloud Infrastructure** (EC2, S3, Lambda, RDS)
 - **DevOps & CI/CD Pipelines** (Docker, Kubernetes, Terraform)
-- **Real-Time Applications** (WebSockets, Laravel Echo, Reverb)
 
 ---
 
